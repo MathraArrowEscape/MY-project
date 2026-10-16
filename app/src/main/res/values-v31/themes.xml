@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Mathra" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/mathra_bg</item>
+        <item name="android:statusBarColor">@color/mathra_bg</item>
+        <item name="android:navigationBarColor">@color/mathra_bg</item>
+        <item name="android:colorAccent">@color/mathra_gold</item>
+        <item name="android:windowSplashScreenBackground">@color/ic_launcher_background</item>
+    </style>
+</resources>
